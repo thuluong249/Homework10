@@ -4,7 +4,9 @@ License: MIT license
 Description
 📜📜
 
-The purpose of this application is to help development teams to quickly generate team in the HTML format that displays the team's basic information. The application runs at the command prompt and when executed it will take the user through a series of command prompt questions to get user input. There are three types of team members: manager, engineer, and intern.
+This application is to help development team to quickly generate team in the HTML format that displays the team's basic information. 
+
+The application runs at the command prompt and when executed it will take the user through a series of command prompt questions to get user input. There are three types of team members: manager, engineer, and intern.
 
 For the manager the prompts are asking the user to input for the manager's name, employee ID number, email address and the office number.
 

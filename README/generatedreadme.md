@@ -1,11 +1,11 @@
+
 # TEAM-PROFILE-GENERATOR
 
 
 [![License: MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
-## Description
-📜📜
+# 💼 Descriptions 💼
 
 The purpose of this application is to help development teams to quickly generate team in the HTML format that displays the team's basic information.
 The application runs at the command prompt and when executed it will take the user through a series of command prompt questions to get user input.
@@ -21,32 +21,37 @@ The user will input information for one manager and as many engineers and intern
 
 The application uses these input to generate a HTML file and will display the roster in the order the user inputs them.
 
-📜📜
-
-## 📋 Table of Contents
-1. [Installation](#📑-installation)
-
-2. [Usage](#-usage-infomation)
-
-3. [Tests](#💯-tests)
-
-4. [Question](#❓-questions)
-
-## 📑 Installation
-To install, download the repo and run 'node index' in the command line.
-
-## Usage infomation
-Once you run 'node index', you will be asked a series of questions about your work. After you answer all the questions an HTML file will be created from your answers and will be in the folder.
 
 
-## 💯 Tests
+# 📋 Table of Contents
+1. [Descriptions](#📋-description)
 
-Run node index.js in the commandline
+2. [Installation](#📑-installation)
 
-## ❓ Questions
+3. [Usage](#-usage-infomation)
+
+4. [Tests](#💯-tests)
+
+5. [Questions](#❓-questions)
+
+# 🗝 Installation 🗝
+
+Install all the package needed for the app, then run 'node index.js' in the command line.
+
+# 💎 Usage infomation 💎
+Once you run 'node index', you will be asked a series of questions about your work. After you answer all the questions an HTML file will be created from your answers and will be in the folder(generated).
+
+
+# 💡 Tests 💡
+
+Run node index.js in the commandline and see the video walkthoudh it in the README file.
+
+[Video-View](https://drive.google.com/file/d/1fd-fL5IVEbCnsJn52Vst6PHhW-Ux8DS-/view)
+
+# 🎧 Questions 🎧
 
 If you have any questions, here is a link to my github as well as my email address. Feel free to contanct me!
 
 * [Github](https://github.com/thuluong249)
 
-* <a href="mailto:thujtn2019@gmmail.com">Email</a> 
+* <a href="mailto:thujtn2019@gmmail.com">📧 Email 📧</a> 

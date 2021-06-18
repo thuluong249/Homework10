@@ -8,18 +8,8 @@ function writePage(html) {
     if (err) {
       throw err;
     }
-    console.log("index.html Page generated");
-    copyCSS();
+    console.log("The index page has been successfully generated");
   });
 }
 
-const copyCSS = () => {
-  fs.copyFile("./src/style.css", "./dist/style.css", (err) => {
-    if (err) {
-      throw err;
-    }
-    console.log("style.css file copied");
-  });
-};
-
-(module.exports = writePage), copyCSS;
+module.exports = writePage;
